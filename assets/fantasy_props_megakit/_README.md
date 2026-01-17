@@ -6,7 +6,7 @@
    to `assets\fantasy_props_megakit\License_Source.txt`
 
 ## Import Script
-1. Copy contents of `Fantasy Props MegaKit[Source].zip\Engine Projects\Godot.zip\Godot\addons\quaternius\quaternius_import_script.gd`
+1. Copy `Fantasy Props MegaKit[Source].zip\Engine Projects\Godot.zip\Godot\addons\quaternius\quaternius_import_script.gd`
    to `assets\fantasy_props_megakit\quaternius_import_script.gd`
 1. Open [assets\fantasy_props_megakit\quaternius_import_script.gd](/assets/fantasy_props_megakit/quaternius_import_script.gd#L11)
     - Replace `res://addons/quaternius/materials/` with `res://assets/fantasy_props_megakit/materials/`
