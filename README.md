@@ -9,4 +9,5 @@ Click to read about how I imported each of these asset packs. The main "issue" i
 - [Modular SciFi Megakit](/assets/modular_scifi_megakit/_README.md)
 - [Sci-Fi Essentials Kit](/assets/scifi_essentials_kit/_README.md)
 - [Universal Animation Library](/assets/universal_animation_library/_README.md)
+- [Universal Animation Library 2](/assets/universal_animation_library_2/_README.md)
 - [Universal Base Characters](/assets/universal_base_characters/_README.md)
